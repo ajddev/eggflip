@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/eggflip/static/css/main.47af57dc.css",
-    "main.js": "/eggflip/static/js/main.ab3b406e.js",
+    "main.css": "/eggflip/static/css/main.862f5756.css",
+    "main.js": "/eggflip/static/js/main.5ff0ec08.js",
     "index.html": "/eggflip/index.html",
-    "main.47af57dc.css.map": "/eggflip/static/css/main.47af57dc.css.map",
-    "main.ab3b406e.js.map": "/eggflip/static/js/main.ab3b406e.js.map"
+    "main.862f5756.css.map": "/eggflip/static/css/main.862f5756.css.map",
+    "main.5ff0ec08.js.map": "/eggflip/static/js/main.5ff0ec08.js.map"
   },
   "entrypoints": [
-    "static/css/main.47af57dc.css",
-    "static/js/main.ab3b406e.js"
+    "static/css/main.862f5756.css",
+    "static/js/main.5ff0ec08.js"
   ]
 }
